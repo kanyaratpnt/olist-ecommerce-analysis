@@ -29,3 +29,6 @@
 **Business Recommendation**
 
 ทบทวนประสิทธิภาพของกระบวนการขนส่งและพันธมิตรด้าน Logistics ในช่วงพฤศจิกายน–มีนาคม เพื่อควบคุมระยะเวลาจัดส่งให้มีความสม่ำเสมอมากขึ้น รวมถึงวิเคราะห์เพิ่มเติมถึงความสัมพันธ์ระหว่างการจัดส่งล่าช้ากับพฤติกรรมการซื้อซ้ำของลูกค้า
+
+--
+### 📊Dashboard: https://app.powerbi.com/view?r=eyJrIjoiNjdmN2I5Y2QtMGYyZC00YTE3LWE5OGQtZjhlZjFhZGIyNDhkIiwidCI6IjIxM2U0OTFkLTQzZTMtNGE4Yy1hYzJkLThhMjZlZDg4NWUwZiIsImMiOjEwfQ%3D%3D
