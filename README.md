@@ -29,3 +29,6 @@ The average delivery time across the year was approximately 12 days and increase
 **Business Recommendation**
 
 Review logistics operations and delivery partners during the November–March period to improve delivery consistency. Further analysis should also examine the relationship between delivery delays and customer repeat purchase behavior.
+
+---
+### 📊Dashboard: https://app.powerbi.com/view?r=eyJrIjoiNjdmN2I5Y2QtMGYyZC00YTE3LWE5OGQtZjhlZjFhZGIyNDhkIiwidCI6IjIxM2U0OTFkLTQzZTMtNGE4Yy1hYzJkLThhMjZlZDg4NWUwZiIsImMiOjEwfQ%3D%3D
